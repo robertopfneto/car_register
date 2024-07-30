@@ -6,7 +6,6 @@ Este é um projeto simples de cadastro de carros e seus modelos associados, dese
 ## Tecnologias Utilizadas
 
 - **Java 17**
-- **Spring Boot**
 - **Spring Data JPA**
 - **HTML**
 - **Eclipse IDE**
